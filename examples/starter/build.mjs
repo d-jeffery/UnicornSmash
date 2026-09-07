@@ -17,7 +17,7 @@ import ectLocation from 'ect-bin';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const PROGRAM_TITLE = 'LittleJS JS13K Project';
+const PROGRAM_TITLE = 'Unicorn Smash';
 const PROGRAM_NAME = 'game';
 const BUILD_FOLDER = 'build';
 const SIZE_LIMIT = 13312; // JS13K limit in bytes
